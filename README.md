@@ -178,7 +178,7 @@ footer {
   </nav>
   
   <article>
-    <h1> <i>Theatre in the UK and classical music: a love story"</h1> </i>
+    <h1 style:"font-size:30%; color:"black"> <i>Theatre in the UK and classical music: a love story"</h1> </i>
    <small> <i> A story by Isabella Porrovecchio and Eleonora Pellegrini </i></small>
     <p>article</p>
     <p><img style="image-align:center;" src="https://www.historyhit.com/app/uploads/fly-images/5158910/ROH-1-788x537.jpg?x50601" alt="google.com" width="
