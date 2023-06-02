@@ -1,4 +1,3 @@
-# 6girls
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,8 +15,8 @@ body {
 
 /* Style the header */
 header {
-  background-color: #666;
-  padding: 30px;
+  background-color: lightpink;
+  padding: 10px;
   text-align: center;
   font-size: 35px;
   color: white;
@@ -34,7 +33,7 @@ nav {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background: #ccc;
+  background: lightcoral;
   padding: 20px;
 }
 
@@ -49,13 +48,13 @@ article {
   -webkit-flex: 3;
   -ms-flex: 3;
   flex: 3;
-  background-color: #f1f1f1;
+  background-color: ivory;
   padding: 10px;
 }
 
 /* Style the footer */
 footer {
-  background-color: #777;
+  background-color: darksalmon;
   padding: 10px;
   text-align: center;
   color: white;
@@ -72,36 +71,237 @@ footer {
 </head>
 <body>
 
-<h2>CSS Layout Flexbox</h2>
-<p>In this example, we have created a header, two columns/boxes and a footer. On smaller screens, the columns will stack on top of each other.</p>
-<p>Resize the browser window to see the responsive effect.</p>
-<p><strong>Note:</strong> Flexbox is not supported in Internet Explorer 10 and earlier versions.</p>
 
 <header>
-  <h2>Cities</h2>
+  <h2> <i>6 girls on a stage </h2> </i>
 </header>
 
 <section>
   <nav>
     <ul>
-      <li><a href="#">London</a></li>
-      <li><a href="#">Paris</a></li>
-      <li><a href="#">Tokyo</a></li>
+      <li><a href="#">Story #1</a></li>
+      <li><a href="#">Story #2</a></li>
+      <li><a href="#">Story #3</a></li>
     </ul>
   </nav>
   
   <article>
-    <h1>London</h1>
-    <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+    <h1>Hi everyone!</h1>
+    <p>We're Isabella and..</p>
+    <p>We'll be delighted to take you on this journey with us..</p>
   </article>
 </section>
 
 <footer>
-  <p>Footer</p>
+  <p>Scroll down to read the articles and reports!</p>
 </footer>
+
+
+2
+
 
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: lightcoral;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style the content */
+article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: ivory;
+  padding: 10px;
+}
+
+/* Style the footer */
+footer {
+  background-color: darksalmon;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+</style>
+</head>
+<body>
+
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="#">Story #1</a></li>
+      
+    </ul>
+  </nav>
+  
+  <article>
+    <h1> <i>Theatre in the UK and classical music: a love story"</h1> </i>
+   <small> <i> A story by Isabella Porrovecchio and Eleonora Pellegrini </i></small>
+    <p>article</p>
+    <p><img style="image-align:center;" src="https://www.historyhit.com/app/uploads/fly-images/5158910/ROH-1-788x537.jpg?x50601" alt="google.com" width="
+320" height="250"> </p>
+     
+    
+     <h4> <i> About our methodological research </i> <h4>
+    <p> <small> article </small></p>
+    
+  </article>
+</section>
+
+<footer>
+  <p>Scroll down to read the articles and reports!</p>
+</footer>
+
+
+
+
+
+</body>
+</html>
+
+
+3
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: lightcoral;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style the content */
+article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: ivory;
+  padding: 10px;
+}
+
+/* Style the footer */
+footer {
+  background-color: darksalmon;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+</style>
+</head>
+<body>
+
+
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="#">Story #2</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1> <i>Titolo Agnese e Giulia</h1> </i>
+   <small> <i> A story by Agnese Musacchio and Giulia Montesanto </i></small>
+    <p>article</p>
+    <p><img src="https://cdn.shopify.com/s/files/1/0130/8714/6043/articles/image1_1_580x.jpg?v=1621417630" alt="google.com" width="
+400" height="309"></p>
+     
+    
+     <h4> <i> About our methodological research </i> <h4>
+    <p> <small> article </small></p>
+    
+  </article>
+</section>
+
+<footer>
+  <p>Scroll down to read the articles and reports!</p>
+</footer>
+
+
+
+
+
+
+</body>
+</html>
 
