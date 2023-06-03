@@ -132,7 +132,7 @@ footer {
   <a href="https://giuliam2.github.io/">Home</a>
   <a href="https://bella2402.github.io">Theater</a>
   <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
-  <a class="active" href="#Guitars">Guitars</a>
+  <a class="active" href="https://bella2402.github.io/6girls/">Guitars</a>
   <a href="https://giuliam2.github.io/Reports/">Our Reports</a>
 </div>
 
