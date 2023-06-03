@@ -165,14 +165,14 @@ What are you waiting for? Start your journey by clicking the link at the bottom 
 
   <div class="section">
     <div class="section-image">
-    <a href="https://melody-data.github.io/stories/published_stories/story_1685548733.710874.html">
-       <img src="melody.jpg" alt="Image 1" width="400" height="240"/>
+    <a href="https://projects.dharc.unibo.it/melody/1685710021.158254/the_history_of_the_guitar">
+       <img src="screen infuential.jpg" alt="Image 1" width="400" height="240"/>
   
       <img src="Screen mappa.jpg" alt="Image 2" width="400" height="240"/> </a>
     </div>
   </div>
 <br>
-  <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html">Click here to see our story on Melody!</a>
+  <a href="[https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html](https://projects.dharc.unibo.it/melody/1685710021.158254/the_history_of_the_guitar)">Click here to see our story on Melody!</a>
   
 <br>
 <br>
