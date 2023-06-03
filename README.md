@@ -172,7 +172,7 @@ What are you waiting for? Start your journey by clicking the link at the bottom 
     </div>
   </div>
 <br>
-  <a href="[https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html](https://projects.dharc.unibo.it/melody/1685710021.158254/the_history_of_the_guitar)">Click here to see our story on Melody!</a>
+  <a href="https://projects.dharc.unibo.it/melody/1685710021.158254/the_history_of_the_guitar">Click here to see our story on Melody!</a>
   
 <br>
 <br>
