@@ -130,9 +130,9 @@ footer {
 
 <div class="topnav">
   <a href="https://giuliam2.github.io/">Home</a>
-  <a class="active" href="https://bella2402.github.io">Theater</a>
+  <a href="https://bella2402.github.io">Theater</a>
   <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
-  <a href="#Guitars">Guitars</a>
+  <a class="active"href="#Guitars">Guitars</a>
   <a href="https://giuliam2.github.io/Reports/">Our Reports</a>
 </div>
 
@@ -152,7 +152,7 @@ For those who are more passionate and interested in approaching this world, we o
 The guitar over the years has become increasingly influential, even to the point of having a major impact on world markets. Here, then, the charts show which guitars have been most sold over a period of time from the 1990s, the prominent years of rock music, to our days. </p>
     </div>
     <div class="article-image">
-      <img src="https://www.artdictionmagazine.com/wp-content/uploads/2020/02/AdobeStock_287272673-website.jpg" alt="Article Image">
+      <img src="https://media.istockphoto.com/id/629212494/photo/electric-guitar-production-shop-start-up.jpg?s=612x612&w=0&k=20&c=ucNtvS4BRc4xcDohHdenPLKyduEpTgAXWHX4CoXathA=" alt="Article Image">
     </div>
   </div>
 
