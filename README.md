@@ -168,7 +168,7 @@ What are you waiting for? Start your journey by clicking the link at the bottom 
     <a href="https://melody-data.github.io/stories/published_stories/story_1685548733.710874.html">
        <img src="melody.jpg" alt="Image 1" width="400" height="240"/>
   
-      <img src="melody2.jpg" alt="Image 2" width="400" height="240"/> </a>
+      <img src="Screen mappa.jpg" alt="Image 2" width="400" height="240"/> </a>
     </div>
   </div>
 <br>
