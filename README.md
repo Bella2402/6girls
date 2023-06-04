@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>The History of the Guitar</title>
@@ -16,7 +15,7 @@ body {
 
 .topnav a {
   float: left;
-  color: #;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -130,7 +129,7 @@ footer {
 
 <div class="topnav">
   <a href="https://giuliam2.github.io/6-Girls-on-a-stage-home/">Home</a>
-  <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/">Theater</a>
+  <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/">Theatre</a>
   <a href="https://giuliam2.github.io/Exploring-the-rock-music-genre/">Rock Music</a>
   <a class="active" href="https://bella2402.github.io/The-History-of-the-Guitar/">Guitars</a>
   <a href="https://giuliam2.github.io/Reports/">Our Reports</a>
@@ -172,7 +171,7 @@ What are you waiting for? Start your journey by clicking the link at the bottom 
     </div>
   </div>
 <br>
-  <a href="https://projects.dharc.unibo.it/melody/1685710021.158254/the_history_of_the_guitar">Click here to see our story on Melody!</a>
+  <a href="https://projects.dharc.unibo.it/melody/1685710021.158254/the_history_of_the_guitar"> <span style="color:black"> Click here to see our story on Melody!</a>
   
 <br>
 <br>
