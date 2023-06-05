@@ -159,7 +159,7 @@ The guitar over the years has become increasingly influential, even to the point
     <p style="font-family: 'Times New Roman', serif;" >Have you ever wondered, however, what made people buy this instrument more and more? We did. Throughout the history of music, audiences have been influenced by influential guitarists such as Jimi Hendrix and Bob Dylan, whose energy and passion were able to engage and attract their audiences. So, people, whether for amateur or professional use, began to purchase this instrument.
 American influence did not take long to spread around the world, and so today even countries far away enjoy the footsteps left by those who really knew how to appreciate this instrument. In the map provided on Melody, you are shown the countries with their own number of guitarists.
 Through this project you will be able to see how the guitar from a simple wooden object becomes everyday music for our ears capable of reaching the whole world with its sound. 
-What are you waiting for? Start your journey by clicking the link at the bottom of the page.</p>
+What are you waiting for? <a href="https://melody-data.github.io/stories/published_stories/story_1685710021.158254.html"><span style="color:black"><b>Click here</b></span></a> to start your journey into the fascinating world of guitars.</p>
   </div>
 
   <div class="section">
