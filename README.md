@@ -8,6 +8,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+ a {
+        color: #fff;
+        text-decoration: none;
+    }
+  
 .topnav {
   overflow: hidden;
   background-color: #;
