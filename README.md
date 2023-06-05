@@ -179,5 +179,4 @@ What are you waiting for? <a href="https://melody-data.github.io/stories/publish
   <p>All rights reserved to the 6girlsonstage's project.</p>
 </footer>
 
-</body>
-</html>
+
