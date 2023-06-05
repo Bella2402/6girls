@@ -171,9 +171,7 @@ What are you waiting for? <a href="https://melody-data.github.io/stories/publish
     </div>
   </div>
 <br>
-  <a href="https://melody-data.github.io/stories/published_stories/story_1685710021.158254.html"><span style="color:black"><b>Click here to see our story on Melody! </b>
   
-<br>
 <br>
 <footer>
   <p>All rights reserved to the 6girlsonstage's project.</p>
